@@ -1,0 +1,22 @@
+# Node / frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.*
+
+# Java / backend
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.factorypath
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
